@@ -162,6 +162,7 @@ cython_debug/
 # Customization
 
 nohup.out
-transformers/models/
-peft/models/
+*/models/
 peft/temp/
+deepspeed/output_dir
+RLHF
